@@ -36,7 +36,7 @@ body {
     font-family: "Mona Sans", sans-serif;
     font-size: 16px;
     line-height: 34px;
-    color: #0D0C22;
+    color: #141414;
     font-weight: 400;
     position: relative;
     overflow-x: hidden;
@@ -50,7 +50,7 @@ h5,
 h6 {
     font-family: "Teko", sans-serif;
     -webkit-font-smoothing: antialiased;
-    color: #0D0C22;
+    color: #141414;
 }
 
 h1 {
@@ -58,12 +58,12 @@ h1 {
     font-weight: 600;
     line-height: 55px;
     margin: 0 0 10px;
-    color: #0D0C22;
+    color: #141414;
 }
 
 h2 {
     font-size: 36px;
-    color: #0D0C22;
+    color: #141414;
     margin: 0 0 10px;
     font-weight: 600;
     line-height: 36px;
@@ -75,7 +75,7 @@ h4 {
     margin: 0 0 10px;
     font-weight: 400;
     line-height: 1.7;
-    color: #0D0C22;
+    color: #141414;
     letter-spacing: -0.01em;
 }
 
@@ -97,7 +97,7 @@ h6 {
     display: inline-block;
     padding: 1px 20px;
     border-radius: 16px;
-    background-color: #0D0C22;
+    background-color: #141414;
     color: #fff;
     font-size: 12px;
     margin-right: 8px;
@@ -433,7 +433,7 @@ button {
 }
 
 .default-btn {
-    background-color: #0D0C22;
+    background-color: #141414;
     font-family: "Teko", sans-serif;
     color: #fff;
     font-size: 18px;
@@ -610,7 +610,7 @@ ul.nav {}
 ul.nav>li {}
 
 ul.nav>li>a {
-    color: #0D0C22;
+    color: #141414;
     display: inline-block;
     vertical-align: middle;
     padding: 0 20px;
@@ -631,7 +631,7 @@ ul.nav>li>a.active {
 }
 
 .navbar-fixed-top ul.nav>li>a {
-    color: #0D0C22;
+    color: #141414;
 }
 
 .navbar-fixed-top ul.nav>li>a:hover,
@@ -683,7 +683,7 @@ ul.nav>li>a.active {
 .slicknav_nav a {
     padding: 15px 20px;
     margin: 0;
-    color: #0D0C22;
+    color: #141414;
     font-size: 18px;
     line-height: 1;
 }
@@ -725,7 +725,7 @@ ul.nav>li>a.active {
 .hero-content .sub-heading {
     font-size: 30px;
     line-height: 1.1;
-    color: #0D0C22;
+    color: #141414;
     font-weight: 500;
     padding-bottom: 15px;
     margin-bottom: 10px;
@@ -745,14 +745,14 @@ ul.nav>li>a.active {
     font-size: 50px;
     line-height: 56px;
     font-weight: 700;
-    color: #0D0C22;
+    color: #141414;
     margin-top: 20px;
 }
 
 .hero-content .desc {
     font-size: 16px;
     line-height: 34px;
-    color: #0D0C22;
+    color: #141414;
     margin-bottom: 30px;
 }
 
@@ -846,7 +846,7 @@ ul.nav>li>a.active {
     position: absolute;
     top: -17px;
     right: -15px;
-    color: #0D0C22;
+    color: #141414;
     font-size: 14px;
     font-weight: 600;
 }
@@ -903,7 +903,7 @@ ul.nav>li>a.active {
     font-size: 22px;
     line-height: 1.1;
     font-weight: 700;
-    color: #0D0C22;
+    color: #141414;
     position: relative;
     margin: 15px 0 25px;
     transition: all 0.2s ease-in-out;
@@ -985,7 +985,7 @@ ul.nav>li>a.active {
     font-size: 16px;
     line-height: 1;
     font-weight: 600;
-    color: #0D0C22;
+    color: #141414;
     padding: 5px 15px;
 }
 
@@ -1018,7 +1018,7 @@ ul.nav>li>a.active {
     position: relative;
     margin-right: 20px;
     font-family: "Teko", sans-serif;
-    color: #0D0C22;
+    color: #141414;
     font-size: 18px;
     line-height: 1;
     font-weight: 600;
@@ -1122,7 +1122,7 @@ ul.nav>li>a.active {
    Widget Section
    ========================================================================== */
 .widget-section {
-    background-color: #0D0C22;
+    background-color: #141414;
     padding: 125px 0;
     position: relative;
     z-index: 1;
@@ -1169,7 +1169,7 @@ ul.nav>li>a.active {
    Footer Section
    ========================================================================== */
 .footer-section {
-    background-color: #0D0C22;
+    background-color: #141414;
     display: block;
     color: #fff;
     padding: 30px 0;
