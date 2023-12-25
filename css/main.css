@@ -93,14 +93,15 @@ h6 {
     margin: 0 0 10px;
 }
 
-.tag-pill {
+.skills_skill {
     display: inline-block;
-    padding: 1px 20px;
-    border-radius: 16px;
-    background-color: #141414;
-    color: #fff;
-    font-size: 12px;
-    margin-right: 8px;
+    padding: 2px 17px;
+    font-size: 14px;
+    background: #E7E7E7;
+    border-radius: 8px;
+    font-weight: 500;
+    color: #666666;
+    margin-right: 5px;
 }
 
 
